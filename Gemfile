@@ -25,6 +25,7 @@ gem 'twitter-bootstrap-rails'
 
 gem 'devise-bootstrap-views'
 # Use jquery as the JavaScript library
+gem 'stock_quote'
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
